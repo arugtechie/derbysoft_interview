@@ -1,0 +1,7 @@
+A car has 4 tires and 1 spare tire.
+
+Each tire can travel a maximum distance of 20000 miles before wearing off.
+
+What is the maximum distance the car can travel?
+
+You are allowed to change tires (using the spare tire) an unlimited number of times.
